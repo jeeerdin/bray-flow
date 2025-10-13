@@ -152,7 +152,7 @@ ISC
 
 ## Author
 
-Created by [Kevin Kane](https://10xdev.io)
+Created by Kevin Kane of [10xDev](https://10xdev.io)
 
 ---
 
